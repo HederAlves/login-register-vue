@@ -28,7 +28,7 @@
 
 <script>
 import TheFormLogin from "../components/TheFormLogin.vue";
-import StyleLoginRegister from "../assets/styleLoginRegister.vue";
+import StyleLoginRegister from "../assets/StyleLoginRegister.vue";
 
 export default {
   name: "Login",
