@@ -1,3 +1,10 @@
+<template>
+</template>
+<script>
+export default{
+  name: "StyleLoginRegister"
+}
+</script>
 <style>
 .mainContainer {
   @apply h-screen sm:flex sm:justify-between md:mr-6;

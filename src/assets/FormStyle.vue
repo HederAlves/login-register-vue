@@ -1,3 +1,11 @@
+<template>
+</template>
+<script>
+export default{
+  name: "FormStyle"
+}
+</script>
+
 <style>
 .formLoginRegister {
   @apply flex flex-col justify-center h-56;
