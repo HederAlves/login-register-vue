@@ -41,6 +41,6 @@ export default {
   @apply text-center border-t-2 px-5 sm:w-[50vh] w-[45vh];
 }
 .lineDivision {
-  @apply bg-white -m-4 text-center px-5 absolute xl:ml-28 ml-20 md:ml-24;
+  @apply bg-white -m-4 text-center px-5 absolute xl:ml-28  md:ml-24;
 }
 </style>
