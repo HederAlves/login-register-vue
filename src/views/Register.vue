@@ -21,10 +21,10 @@
 
 <script>
 import TheFormRegister from "../components/TheFormRegister.vue";
-import styleLoginRegister from "../assets/styleLoginRegister.vue";
+import StyleLoginRegister from "../assets/StyleLoginRegister.vue";
 
 export default {
   name: "Login",
-  components: { TheFormRegister, styleLoginRegister },
+  components: { TheFormRegister, StyleLoginRegister },
 };
 </script>
