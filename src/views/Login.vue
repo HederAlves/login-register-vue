@@ -9,7 +9,7 @@
       <h1 class="titleLogin">Bem vindo!</h1>
       <p>Faça seu login para continuar</p>
       <TheFormLogin />
-      <span>
+      <span class="spanLine">
         <p class="lineDivision">ou</p>
       </span>
       <button class="buttonGoogle">
@@ -35,8 +35,8 @@ export default {
 };
 </script>
 
-<style scoped>
-span {
+<style>
+.spanLine{
   @apply text-center border-t-2 px-5 sm:w-[50vh] w-[45vh];
 }
 .lineDivision {
