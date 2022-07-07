@@ -40,6 +40,7 @@
     </ul>
   </form>
   <router-link class="buttonLoginRegister" to="/">Criar</router-link>
+  <FormStyle />
 </template>
 
 <script>

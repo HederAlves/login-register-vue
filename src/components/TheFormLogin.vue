@@ -21,6 +21,7 @@
       </li>
     </ul>
     <button class="buttonLoginRegister" @click="login">clique</button>
+    <FormStyle />
   </form>
 </template>
 
