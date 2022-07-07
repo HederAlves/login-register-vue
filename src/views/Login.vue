@@ -22,6 +22,7 @@
         >
       </p>
     </section>
+    <StyleLoginRegister />
   </div>
 </template>
 
@@ -31,7 +32,7 @@ import styleLoginRegister from "../assets/styleLoginRegister.vue";
 
 export default {
   name: "Login",
-  components: { TheFormLogin, styleLoginRegister },
+  components: { TheFormLogin, styleLoginRegister, StyleLoginRegister },
 };
 </script>
 
